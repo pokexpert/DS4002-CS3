@@ -17,7 +17,8 @@ Compute exact-match %, off-by-one %, and average error against actual star ratin
 
 1. **Read the [hook document](hook.pdf)** — 1-page setup of the scenario and your mission.
 2. **Read the [rubric](rubric.pdf)** — the actual specs your deliverable must meet.
-3. **Check the [references](supplemental)** — 3 papers to get yourself comfortable with the content.
+3. **Skim the [starter blog post](supplemental)** — gets you oriented on what sentiment analysis is and why this question is interesting.
+4. **Check the [references](supplemental)** — 3 papers to get yourself comfortable with the content.
 
 ---
 
