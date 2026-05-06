@@ -66,7 +66,7 @@ The full spec is in `rubric.pdf`. Read it before you start coding.
 
 **References:**
 
-Also can be found in `references`
+Also can be found in `supplemental`
 
 - Hutto & Gilbert (2014), *VADER: A Parsimonious Rule-Based Model for Sentiment Analysis* — the paper behind VADER.
 - Kralj Novak et al. (2015), *Sentiment of Emojis* — sentiment lexicon for 751 emojis.
