@@ -75,8 +75,3 @@ Also can be found in `references`
 
 ---
 
-## Acknowledgements
-
-Case study adapted from a Project 1 submission by Group 1 (Team JVL) — Victoria Markakis, Laura Carbaugh, and Joanne Lee — DS 4002, Spring 2026.
-
-Rubric structure based on Streifer & Palmer (2020) and the DS 4002 CS3 template by Prof. Karsten Siller and TA Cole Whittington.
